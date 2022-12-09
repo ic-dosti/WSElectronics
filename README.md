@@ -1,10 +1,8 @@
 # About
 
-Description:
-- PCB Reverse Engineering of LED-smile from WorldSkills 2017
-- Author: Esmagambet D.
-- College: CATEC
-- Laboratory: X-18
-- Date: 03 December 2022
+1. Laboratory: X-18
+2. Memebrs: Esmagambet Doshan
+3. College: CATEC
 
-
+Our projects:
+1. PCBSmile
