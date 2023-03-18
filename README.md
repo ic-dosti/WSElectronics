@@ -4,7 +4,6 @@
 3. College: CATEC
 
 ### Our projects:
-[Link text Here](https://link-url-here.org)
 1. [FM_Radio](https://github.com/ic-dosti/ExperimentalProjects/tree/main/FM_Radio)
 2. [Flashing_light](https://github.com/ic-dosti/ExperimentalProjects/tree/main/Flashing_light)
 3. [LED_Matrix](https://github.com/ic-dosti/ExperimentalProjects/tree/main/LED_Matrix)
