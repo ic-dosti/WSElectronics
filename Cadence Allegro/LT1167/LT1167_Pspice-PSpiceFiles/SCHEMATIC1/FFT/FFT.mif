@@ -1,0 +1,7 @@
+ lib=C:\Cadence\SPB_23.1\tools\PSpice\Library\bzt55.lib, offset=3754, size=163
+ lib=C:\Cadence\SPB_23.1\tools\PSpice\Library\lin_tech.lib, offset=112212, size=586
+ lib=C:\Cadence\SPB_23.1\tools\PSpice\Library\pspice_elem.lib, offset=806, size=265
+ lib=C:\Cadence\SPB_23.1\tools\PSpice\Library\lin_tech.lib, offset=112799, size=1504
+ lib=C:\Cadence\SPB_23.1\tools\PSpice\Library\lin_tech.lib, offset=114304, size=1504
+ lib=C:\Cadence\SPB_23.1\tools\PSpice\Library\lin_tech.lib, offset=115809, size=2084
+ lib=C:\Cadence\SPB_23.1\tools\PSpice\Library\templates.lib, offset=2421636, size=1971

@@ -1,0 +1,59 @@
+Smoke Analysis Run : Fri Jan 26 15:47:08 2024
+
+
+Reference Designator = D1
+Info:
+	Smoke test IF will not be done.
+	The Maximum Operating Value is not defined.
+
+
+***** Analysis Summary *****
+
+Reference Designator = C5
+
+
+Reference Designator = R4
+
+
+Reference Designator = R8
+
+
+Reference Designator = R7
+
+
+Reference Designator = D1
+	The following parameter(s) had undefined
+	Maximum Operating Value(s)
+		IF
+
+
+Reference Designator = R9
+
+
+Reference Designator = C3
+
+
+Reference Designator = R3
+
+
+Reference Designator = C4
+
+
+Reference Designator = R1
+
+
+Reference Designator = R2
+
+
+Reference Designator = C6
+
+
+Reference Designator = C1
+
+
+Reference Designator = C7
+
+
+Reference Designator = C2
+
+
