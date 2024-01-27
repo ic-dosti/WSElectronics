@@ -1,7 +1,7 @@
 
-**** 01/26/24 16:29:10 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
+**** 01/27/24 08:31:36 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
 
- ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\LT1167_Pspice-PS
+ ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\lt1167_pspice-ps
 
 
  ****     CIRCUIT DESCRIPTION
@@ -55,16 +55,16 @@ C_C1         N00757 0  1000pF  TC=0,0
 C_C7         0 OUT+  10pF  TC=0,0 
 C_C2         0 N00772  1000pF  TC=0,0 
 V_V1         N02688 OUT-  
-+EXP 1 5 0.5 0.2 1.750 0.780
-V_V2         OUT+ 0 1V
-C_C8         OUT- N02688  1000pF  TC=0,0 
++EXP 0 2 0.5 0.2 1.750 0.780
+V_V2         OUT+ 0 2.5V
+C_C8         0 N02688  1000pF  TC=0,0 
 
 **** RESUMING FFT.cir ****
 .END
 
-**** 01/26/24 16:29:10 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
+**** 01/27/24 08:31:36 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
 
- ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\LT1167_Pspice-PS
+ ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\lt1167_pspice-ps
 
 
  ****     Diode MODEL PARAMETERS
@@ -110,9 +110,9 @@ C_C8         OUT- N02688  1000pF  TC=0,0
           KF                    6.414800E-18 
 
 
-**** 01/26/24 16:29:10 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
+**** 01/27/24 08:31:36 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
 
- ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\LT1167_Pspice-PS
+ ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\lt1167_pspice-ps
 
 
  ****     MOSFET MODEL PARAMETERS
@@ -189,9 +189,9 @@ C_C8         OUT- N02688  1000pF  TC=0,0
        XPART    0               0            
 
 
-**** 01/26/24 16:29:10 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
+**** 01/27/24 08:31:36 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
 
- ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\LT1167_Pspice-PS
+ ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\lt1167_pspice-ps
 
 
  ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
@@ -204,65 +204,65 @@ C_C8         OUT- N02688  1000pF  TC=0,0
  NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
 
 
-(  VCC)    -.1623  ( OUT+)    1.0000  ( OUT-)    -.1599  (N00220)    -.2307     
+(  VCC)     .9056  ( OUT+)    2.5000  ( OUT-)     .8997  (N00220)     .3040     
 
-(N00234)    -.0549 (N00331)    -.1084 (N00723)    -.0814 (N00729)    -.0814     
+(N00234)     .3140 (N00331)     .6098 (N00723)     .6781 (N00729)     .6781     
 
-(N00757)    -.1599 (N00772)     .2484 (N02688)     .8401 (X_U1.10)    -.0816    
+(N00757)     .8997 (N00772)    1.3278 (N02688)     .8997 (X_U1.10)     .6782    
 
-(X_U1.11)    -.0811                   (X_U1.12)    -.1562                       
+(X_U1.11)     .6781                   (X_U1.12)     .4911                       
 
-(X_U1.13)    -.0680                   (PRESSURE)    -.2307                      
+(X_U1.13)     .4961                   (PRESSURE)     .3040                      
 
-(X_U1.XIN1.6)    -.0812               (X_U1.XIN1.7)    -.0812                   
+(X_U1.XIN1.6)     .4528               (X_U1.XIN1.7)     .6794                   
 
-(X_U1.XIN2.6)    -.0812               (X_U1.XIN2.7)    -.0812                   
+(X_U1.XIN2.6)     .4528               (X_U1.XIN2.7)     .6793                   
 
-(X_U1.XOUT.6)    -.0812               (X_U1.XOUT.7)    -.2312                   
+(X_U1.XOUT.6)     .4528               (X_U1.XOUT.7)     .3028                   
 
-(X_U1.XIN1.10)   -1.1633              (X_U1.XIN1.11)   -1.1616                  
+(X_U1.XIN1.10)    -.3365              (X_U1.XIN1.11)     .1475                  
 
-(X_U1.XIN1.12)   -1.1630              (X_U1.XIN1.50)    -.0812                  
+(X_U1.XIN1.12)    -.3363              (X_U1.XIN1.50)     .6794                  
 
-(X_U1.XIN1.53)    1.1188              (X_U1.XIN1.54)   -1.2812                  
+(X_U1.XIN1.53)    1.8794              (X_U1.XIN1.54)    -.5206                  
 
-(X_U1.XIN1.55)     .5088              (X_U1.XIN1.56)    -.0850                  
+(X_U1.XIN1.55)    1.3027              (X_U1.XIN1.56)     .9056                  
 
-(X_U1.XIN1.57)    -.6712              (X_U1.XIN1.58)    -.0773                  
+(X_U1.XIN1.57)    -.0206              (X_U1.XIN1.58)-215.8E-12                  
 
-(X_U1.XIN1.60)    -.0812              (X_U1.XIN1.99)    -.0812                  
+(X_U1.XIN1.60)     .4528              (X_U1.XIN1.99)     .4528                  
 
-(X_U1.XIN2.10)   -1.1766              (X_U1.XIN2.11)   -1.1751                  
+(X_U1.XIN2.10)    -.3365              (X_U1.XIN2.11)     .1469                  
 
-(X_U1.XIN2.12)   -1.1496              (X_U1.XIN2.50)    -.0812                  
+(X_U1.XIN2.12)    -.3358              (X_U1.XIN2.50)     .6793                  
 
-(X_U1.XIN2.53)    1.1188              (X_U1.XIN2.54)   -1.2812                  
+(X_U1.XIN2.53)    1.8793              (X_U1.XIN2.54)    -.5207                  
 
-(X_U1.XIN2.55)     .5088              (X_U1.XIN2.56)    -.0850                  
+(X_U1.XIN2.55)    1.3027              (X_U1.XIN2.56)     .9056                  
 
-(X_U1.XIN2.57)    -.6712              (X_U1.XIN2.58)    -.0773                  
+(X_U1.XIN2.57)    -.0206              (X_U1.XIN2.58)-216.1E-12                  
 
-(X_U1.XIN2.60)    -.0812              (X_U1.XIN2.99)    -.0812                  
+(X_U1.XIN2.60)     .4528              (X_U1.XIN2.99)     .4528                  
 
-(X_U1.XOUT.10)   -1.1729              (X_U1.XOUT.11)   -1.1530                  
+(X_U1.XOUT.10)    -.5231              (X_U1.XOUT.11)     .1978                  
 
-(X_U1.XOUT.12)   -1.1715              (X_U1.XOUT.20)    -.1120                  
+(X_U1.XOUT.12)    -.3866              (X_U1.XOUT.20)     .4935                  
 
-(X_U1.XOUT.21)    -.1120              (X_U1.XOUT.31)    -.3694                  
+(X_U1.XOUT.21)     .4935              (X_U1.XOUT.31)     .7225                  
 
-(X_U1.XOUT.32)     .5930              (X_U1.XOUT.33)     .5929                  
+(X_U1.XOUT.32)     .6169              (X_U1.XOUT.33)     .6167                  
 
-(X_U1.XOUT.50)    -.2312              (X_U1.XOUT.53)    1.6688                  
+(X_U1.XOUT.50)     .3028              (X_U1.XOUT.53)    2.2028                  
 
-(X_U1.XOUT.54)   -1.8312              (X_U1.XOUT.55)    1.0197                  
+(X_U1.XOUT.54)   -1.2972              (X_U1.XOUT.55)    1.5908                  
 
-(X_U1.XOUT.56)     .3757              (X_U1.XOUT.57)   -1.1820                  
+(X_U1.XOUT.56)     .9936              (X_U1.XOUT.57)    -.6851                  
 
-(X_U1.XOUT.58)    -.5380              (X_U1.XOUT.60)    -.0812                  
+(X_U1.XOUT.58)    -.0879              (X_U1.XOUT.60)     .4528                  
 
-(X_U1.XOUT.90)    0.0000              (X_U1.XOUT.91)-276.0E-06                  
+(X_U1.XOUT.90)    0.0000              (X_U1.XOUT.91)-692.6E-06                  
 
-(X_U1.XOUT.92)-276.0E-06              (X_U1.XOUT.99)    -.0812                  
+(X_U1.XOUT.92)-692.6E-06              (X_U1.XOUT.99)     .4528                  
 
 (X_U1.XIN1.101)     .8983             (X_U1.XIN1.102)     .8983                 
 
@@ -278,7 +278,7 @@ C_C8         OUT- N02688  1000pF  TC=0,0
 
 (X_U1.XOUT.103)     .8983             (X_U1.XOUT.104)     .8983                 
 
-(X_U1.XOUT.111)    -.0680             (X_U1.XOUT.605)    0.0000             
+(X_U1.XOUT.111)     .4961             (X_U1.XOUT.605)    0.0000             
 
 
 
@@ -286,28 +286,28 @@ C_C8         OUT- N02688  1000pF  TC=0,0
     VOLTAGE SOURCE CURRENTS
     NAME         CURRENT
 
-    V_V1         5.421E-20
-    V_V2        -7.516E-04
+    V_V1         0.000E+00
+    V_V2        -1.172E-03
     X_U1.XIN1.VRu   0.000E+00
-    X_U1.XIN1.VC  -1.444E-05
-    X_U1.XIN1.VE   1.444E-05
+    X_U1.XIN1.VC  -3.975E-06
+    X_U1.XIN1.VE   2.058E-07
     X_U1.XIN2.VRu   0.000E+00
-    X_U1.XIN2.VC  -1.444E-05
-    X_U1.XIN2.VE   1.444E-05
+    X_U1.XIN2.VC  -3.975E-06
+    X_U1.XIN2.VE   2.061E-07
     X_U1.XOUT.VRu   0.000E+00
-    X_U1.XOUT.VC  -6.562E-05
-    X_U1.XOUT.VE   6.562E-05
-    X_U1.XOUT.VLIM  -5.696E-16
+    X_U1.XOUT.VC  -1.565E-05
+    X_U1.XOUT.VE   1.564E-05
+    X_U1.XOUT.VLIM  -1.429E-15
 
-    TOTAL POWER DISSIPATION   1.05E-03  WATTS
+    TOTAL POWER DISSIPATION   3.00E-03  WATTS
 
 
 
           JOB CONCLUDED
 
-**** 01/26/24 16:29:10 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
+**** 01/27/24 08:31:36 *** PSpice 23.1.0 (29 September 2023) ** ID# 0 ********
 
- ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\LT1167_Pspice-PS
+ ** Profile: "SCHEMATIC1-FFT"  [ C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\LT1167\lt1167_pspice-ps
 
 
  ****     JOB STATISTICS SUMMARY
@@ -317,5 +317,5 @@ C_C8         OUT- N02688  1000pF  TC=0,0
 
 
 
-  Total job time (using Solver 1)   =         .05
+  Total job time (using Solver 1)   =         .13
 
