@@ -1,0 +1,15 @@
+Ultiboard Information Export File
+
+Design Name  : RLC_3 - Part centroids
+Report Date  : 12 March 2024
+Report Time  : 07:54
+--------------------------------------------------------------------------------
+
+REFDES        VALUE        X_CENTRE[mm] Y_CENTRE[mm]    ROT SIDE     TYPE     FOOTPRINT       
+
+C1            1uF             16.357600    22.453600    180 TOP      THD      RAD3            
+J1            HDR1X2           4.927600    25.501600      0 TOP      THD      HDR1X2          
+L1            1mH             14.325600     8.991600    270 TOP      THD      FEP10X4R12      
+R1            4kOhm           19.913600     9.141600     90 TOP      THD      RES1300-700X250 
+S1            DIPSW1           2.641600     8.991600      0 TOP      THD      DIPSW1H         
+S2            DIPSW1           8.229600     8.991600      0 TOP      THD      DIPSW1H         
