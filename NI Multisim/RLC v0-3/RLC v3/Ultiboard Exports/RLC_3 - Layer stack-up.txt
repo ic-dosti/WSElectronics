@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : RLC_3 - Layer stack-up
+Report Date  : 14 March 2024
+Report Time  : 08:26
+--------------------------------------------------------------------------------
+
+Copper Top        Copper Bottom       
+
+Unassigned        Unassigned          
+T                 T                   

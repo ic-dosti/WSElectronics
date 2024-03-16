@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : RLC_3 - Copper amounts
+Report Date  : 14 March 2024
+Report Time  : 08:26
+--------------------------------------------------------------------------------
+
+Layer                  Area[mm*mm]      Length[mm]      
+
+Copper Top             736.670022       92.216674       
+Copper Bottom          0.000000         0.000000        

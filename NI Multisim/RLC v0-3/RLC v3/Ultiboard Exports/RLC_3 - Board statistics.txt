@@ -1,0 +1,53 @@
+Ultiboard Information Export File
+
+Design Name  : RLC_3 - Board statistics
+Report Date  : 14 March 2024
+Report Time  : 08:26
+--------------------------------------------------------------------------------
+
+                                                                                                     
+
+STATISTICS                                                                                           
+Parts :                                 6                                                            
+Vias :                                  0                                                            
+Pins :                                 12                                                            
+Test pins :                             0                                                            
+Jumpers :                               0                                                            
+Nets :                                  5                                                            
+Pins in net :                          12                                                            
+Connections :                           7                                                            
+Unrouted connections :                  0                                                            
+Router completion rate :              100 %                                                          
+                                                                                                     
+                                                                                                     
+BOARD OUTLINE                                                                                        
+Length (x) :                    30.000000 mm                                                         
+Width  (y) :                    30.000000 mm                                                         
+                                                                                                     
+                                                                                                     
+BOARD LAYERS                                                                                         
+Copper Top                                                                                           
+Copper Bottom                                                                                        
+Keep-in/keep-out                                                                                     
+Board Outline                                                                                        
+Silkscreen Top                                                                                       
+Silkscreen Bottom                                                                                    
+3D-Info Top                                                                                          
+3D-Info Bottom                                                                                       
+Paste Mask Top                                                                                       
+Paste Mask Bottom                                                                                    
+Solder Mask Top                                                                                      
+Solder Mask Bottom                                                                                   
+Glue Mask Top                                                                                        
+Glue Mask Bottom                                                                                     
+Ratsnest                                                                                             
+Design Rule Check                                                                                    
+Comment                                                                                              
+Mechanical 1                                                                                         
+Mechanical 2                                                                                         
+                                                                                                     
+                                                                                                     
+ERROR MESSAGES                                                                                       
+No errors                                                                                            
+                                                                                                     
+                                                                                                     

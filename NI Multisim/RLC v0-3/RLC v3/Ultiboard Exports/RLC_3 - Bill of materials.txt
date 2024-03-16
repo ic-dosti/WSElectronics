@@ -1,0 +1,14 @@
+Ultiboard Information Export File
+
+Design Name  : RLC_3 - Bill of materials
+Report Date  : 14 March 2024
+Report Time  : 08:26
+--------------------------------------------------------------------------------
+
+VALUE        #    REFDES        FOOTPRINT       
+
+1mH          1    L1            FEP10X4R12      
+1uF          1    C1            RAD3            
+4kOhm        1    R1            RES1300-700X250 
+DIPSW1       2    S1,S2         DIPSW1H         
+HDR1X2       1    J1            HDR1X2          
